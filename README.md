@@ -105,7 +105,7 @@ The model successfully classifies plant diseases with high accuracy on validatio
 --
 
 ## 👨‍💻 Author
-Shrean
+Shreeyans
 
 ---
 
